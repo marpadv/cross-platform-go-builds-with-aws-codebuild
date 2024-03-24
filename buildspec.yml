@@ -36,7 +36,7 @@ batch:
 phases:
   install:
     runtime-versions:
-      golang: 1.16
+      golang: 1.21
 
   build:
     commands:
